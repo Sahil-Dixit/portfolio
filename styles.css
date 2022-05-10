@@ -161,11 +161,14 @@ ul.Services{
     .intro p {
         text-align: justify;
     }
-    h1.Services{
+    .Services{
         text-align: center;
     }
-    ul.Services{
-       text-align: center;
-       list-style-type: none;
+    .skills{
+        display: block;
+    }
+    .skillset{
+        text-align: center;
+        margin: 5px;
     }
 }
